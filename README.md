@@ -9,9 +9,7 @@ Installation
 ------------
 
 astRowRap is currently under development and hence only available via Github. You can install it easily with the following 3 steps:
-
-<pre> 
-install.packages("devtools")
+<pre>install.packages("devtools")
 library(devtools)
 install_github("astrowrap", "astrowrap-dev")
 </pre>
