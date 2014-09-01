@@ -1,0 +1,31 @@
+Package: astRowRap
+Version: 0.1.4
+Date: 2014-09-01
+Title: A compilation of beneficial astronomical algorithms with examples from
+    the domain.
+Authors@R: c(person('Tejas', 'Kale', role=c('aut'), email='kaletejas2006@gmail.com')), person('Ashish', 'Mahabal', role=c('aut', 'cre'), email='mahabalashish@gmail.com'))
+Author: Tejas Kale and Ashish Mahabal
+Maintainer: Tejas Kale <kaletejas2006@gmail.com>
+Depends:
+    R (>= 3.0.0)
+Imports:
+    MASS,
+    nlme,
+    stats,
+    lattice,
+    ggplot2,
+    spatial,
+    mgcv,
+    boot,
+    splines,
+    cluster,
+    caTools
+Suggests: KernSmooth
+Description: A compilation of algorithms and techniques, already available in
+    R, that astronomers could benefit from. Along with a single function to
+    execute these, it provides easy and varied astronomical examples
+    illustrating their usage and significance.
+License: GPL (>= 2)
+LazyData: yes
+Collate:
+    'astrowrap.R'
