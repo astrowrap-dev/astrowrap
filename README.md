@@ -16,4 +16,4 @@ install_github("astrowrap", "astrowrap-dev")
 
 Contact
 -------
-For any bugs/improvements/suggestions, please email us at __kaletejas2006@gmail.com__ or __aam@astro.caltech.edu__.
+For any bugs/improvements/suggestions, please email us at __astrowrap.dev@gmail.com__.
